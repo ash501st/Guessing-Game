@@ -23,4 +23,4 @@ I used Java for the code, and the Java.Util library.
 
 - A scoring system, based on how quickly you get the right answer.
 - The ability to pick a difficulty (easy, medium, hard), to tell you how many guesses you get to make.
-- Something to make it a little more interactive, like prompting the user for their name.
+- A built in user error handler for user inputs that are not numbers.
