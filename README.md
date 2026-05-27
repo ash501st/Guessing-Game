@@ -16,14 +16,10 @@
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [dev.java](https://dev.java/)
 - [w3schools](https://www.w3schools.com/java/)
 
 # Future Work
-
-{Things I would like to add in the future.}
 
 - A scoring system, based on how quickly you get the right answer.
 - The ability to pick a difficulty (easy, medium, hard), to tell you how many guesses you get to make.
