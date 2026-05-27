@@ -4,9 +4,7 @@ This is a number guessing game program made using Java.
 
 The purpose of this code was to learn how to make things using Java.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/06g_AeroMTQ?si=qv8xWGSmMNIpEg22)
 
 # Development Environment
 
