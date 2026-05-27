@@ -1,8 +1,8 @@
 # Overview
 
-{This is a number guessing game program made using Java.}
+This is a number guessing game program made using Java.
 
-{The purpose of this code was to learn how to make things using Java.}
+The purpose of this code was to learn how to make things using Java.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -10,9 +10,9 @@
 
 # Development Environment
 
-{I made this using Visual Studio Code, with some extensions to allow Java.}
+I made this using Visual Studio Code, with some extensions to allow Java.
 
-{I used Java for the code, and the Java.Util library.}
+I used Java for the code, and the Java.Util library.
 
 # Useful Websites
 
